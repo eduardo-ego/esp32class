@@ -1,4 +1,4 @@
-# Taller ESP32 – Fundamentos Prácticos con OLED y Servidor Web
+# Clase ESP32 – Fundamentos Prácticos con OLED y Servidor Web
 
 ## 🧠 Objetivo del taller
 
